@@ -18,7 +18,7 @@ Je transforme des données en tableaux de bord et en KPI actionnables pour aider
 
 ---
 
-### 📊 Projets phares
+### 📊 Projets 
 
 | Projet | Question business | Outils |
 |---|---|---|
